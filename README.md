@@ -1,5 +1,6 @@
 # Swift-UI-Dismiss-lesson
 Cancel button<br>
+![dismiss](https://github.com/danielurra/Swift-UI-Dismiss-lesson/assets/51704179/2929759b-c84a-4250-bb35-9f5fa815b054)<br>
 ## Grab the code - Create Journal Entry View
 ```swift
 //
